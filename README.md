@@ -1,8 +1,6 @@
-# Basic Python Part 2
+# Python_Basics_for_Data_Analysis
+This repository is designed to share with you some exercises that I did to learn the basics of Python commands and syntax.
 
-This repository is designed to share with you a series of exercises I created to continue building on the basics of Python, with a focus on control structures and more complex problem-solving.
+Small collection of exercises and notebooks focused on Python fundamentals for data analysis.
 
-It includes exercises and notebooks centered on loops (for and while), list manipulation, and other intermediate-level topics. 
-This is part 2 of 2 repositories aimed at strengthening your programming fundamentals through practical, hands-on examples. 
-The exercises in this section are slightly more challenging, encouraging you to combine concepts learned in previous exercises—such as conditionals, 
-list operations, and the use of functions—while preparing you to tackle real-world data analysis tasks.
+This folder contains a set of basic Python exercises designed to strengthen your programming fundamentals. Some of the topics we will cover include conditional statements (if, elif, else), integers, for and while loops, lists, and more. Each exercise is designed to help you understand core concepts through practical examples, making it easier to apply them in data analysis and other projects.
